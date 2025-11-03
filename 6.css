@@ -1,0 +1,27 @@
+body {
+  color: yellow;
+  background-color: green;
+  margin-left: 2cm;
+  margin-right: 1cm;
+}
+
+/* Заголовок 1 уровня */
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+}
+
+/* Заголовок 2 уровня */
+h2 {
+  text-align: left;
+  font-weight: 200;
+  color: orange;
+}
+
+/* Абзацы */
+p {
+  text-align: justify;
+  font-size: 32pt;
+  background-color: gray;
+}
